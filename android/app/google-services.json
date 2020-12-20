@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "624380286813",
+    "firebase_url": "https://flash-chat-7f8e7.firebaseio.com",
+    "project_id": "flash-chat-7f8e7",
+    "storage_bucket": "flash-chat-7f8e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624380286813:android:8195a8562aa5e33cdc7ab4",
+        "android_client_info": {
+          "package_name": "co.Nihara.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624380286813-golhl6vunb5kbengttq58vdqp78lnl1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZD2YE6qSYbje0inQVJeA6nkXVOg547dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624380286813-golhl6vunb5kbengttq58vdqp78lnl1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
